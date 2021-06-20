@@ -3,61 +3,33 @@ My favorite extensions for visual studio code
 
 ### Extensions
 
-Auto Rename Tag - Nice little improvement
+[Auto Rename Tag - Nice little improvement](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
 
-https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+[Better Comments - Makes comments more easy to use](https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments)
 
-Better Comments - Makes comments more easy to use
+[Bracket Pair Colorizer 2 - Colorize the brackets!](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 
-https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments
+[Code Spell Checker - If you misspell a word](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
-Bracket Pair Colorizer 2 - Colorize the brackets!
+[Colorize - Another colorfull extension](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize)
 
-https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2
+[CSS Peek - A little peek at your css](https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek)
 
-Code Spell Checker - If you misspell a word
+[Gitlens - Connect to github from vscode](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
-https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker
+[HTML CSS Support - Write css in html](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
 
-Colorize - Another colorfull extension 
+[Indent Rainbow - Make the indents full of color](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 
-https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize
+[Live server - View your code live](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
-CSS Peek - A little peek at your css
+[Live Share - Share your code live](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
 
-https://marketplace.visualstudio.com/items?itemName=pranaygp.vscode-css-peek
+[Live Share Audio - Have live audio calls](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio)
 
-Gitlens - Connect to github from vs code
+[Prettier - It's in the name](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
-
-HTML CSS Support - Write css in html
-
-https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
-
-Indent Rainbow - Make the indents full of color
-
-https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow
-
-Live server - View your code live
-
-https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-
-Live Share - Share your code live
-
-https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
-
-Live Share Audio - Have live audio calls
-
-https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare-audio
-
-Prettier - It's in the name
-
-https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
-
-Python - A nice extension for python
-
-https://marketplace.visualstudio.com/items?itemName=ms-python.python
+[Python - A nice extension for python](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
 
 ### Themes
 
@@ -83,8 +55,7 @@ Cursor Blinking = Expand
 
 Auto Save = AfterDelay
 
-Editor Font Family =  Fira Code, Consolas, ‘Courier New’, monospace (Download Fira Code)
-
-https://github.com/tonsky/FiraCode
+Editor Font Family =  Fira Code, Consolas, ‘Courier New’, monospace ([Download Fira Code](https://github.com/tonsky/FiraCode
+))
 
 Font Ligatures = True (Requries Fira Code)
